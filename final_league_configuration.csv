@@ -1,36 +1,36 @@
-Name,Skill,Position,Salary,Assigned Team
-Chris Thompson,80,GK,80,Team 4
-Brayden Hughes,87,DEF,100,Team 4
-Jaxon Griffin,79,DEF,65,Team 4
-Gavin Richardson,87,MID,95,Team 4
-Dominic Bell,86,MID,95,Team 4
-Sebastian Perry,95,FWD,150,Team 4
-Colton Gray,91,FWD,125,Team 4
-Alex Carter,85,GK,90,Team 1
-Logan Brooks,86,DEF,95,Team 1
-Mason Reed,82,DEF,75,Team 1
-Dylan Morgan,91,MID,115,Team 1
-Connor Hayes,89,MID,105,Team 1
-Julian Scott,92,FWD,130,Team 1
-Tyler Jenkins,80,FWD,70,Team 1
-Blake Henderson,87,GK,95,Team 5
-Daniel Foster,90,DEF,110,Team 5
-Maxwell Flores,81,DEF,72,Team 5
-Nathan Wright,92,MID,120,Team 5
-Hunter Cooper,83,MID,85,Team 5
-Chase Murphy,86,FWD,95,Team 5
-Adrian Collins,85,FWD,90,Team 5
-Jordan Smith,88,GK,100,Team 3
-Caleb Fisher,84,DEF,85,Team 3
-Ethan Howard,80,DEF,70,Team 3
-Ashton Phillips,90,MID,110,Team 3
-Spencer Ward,84,MID,85,Team 3
-Xavier Bryant,90,FWD,120,Team 3
-Landon Powell,89,FWD,110,Team 3
-Ryan Mitchell,83,GK,85,Team 2
-Owen Parker,88,DEF,100,Team 2
-Lucas Bennett,85,DEF,90,Team 2
-Bentley Rivera,88,MID,100,Team 2
-Austin Torres,82,MID,80,Team 2
-Elijah Sanders,93,FWD,140,Team 2
-Zachary Nelson,86,FWD,92,Team 2
+Name,Skill,Position,Salary,Team
+Blake Henderson,GK,87,95,0
+Lucas Bennett,DEF,85,90,0
+Jaxon Griffin,DEF,79,65,0
+Ashton Phillips,MID,90,110,0
+Austin Torres,MID,82,80,0
+Elijah Sanders,FWD,93,140,0
+Landon Powell,FWD,89,110,0
+Jordan Smith,GK,88,100,1
+Brayden Hughes,DEF,87,100,1
+Mason Reed,DEF,82,75,1
+Connor Hayes,MID,89,105,1
+Bentley Rivera,MID,88,100,1
+Zachary Nelson,FWD,86,92,1
+Adrian Collins,FWD,85,90,1
+Ryan Mitchell,GK,83,85,2
+Daniel Foster,DEF,90,110,2
+Logan Brooks,DEF,86,95,2
+Gavin Richardson,MID,87,95,2
+Dominic Bell,MID,86,95,2
+Julian Scott,FWD,92,130,2
+Tyler Jenkins,FWD,80,70,2
+Alex Carter,GK,85,90,3
+Maxwell Flores,DEF,81,72,3
+Ethan Howard,DEF,80,70,3
+Dylan Morgan,MID,91,115,3
+Hunter Cooper,MID,83,85,3
+Sebastian Perry,FWD,95,150,3
+Xavier Bryant,FWD,90,120,3
+Chris Thompson,GK,80,80,4
+Owen Parker,DEF,88,100,4
+Caleb Fisher,DEF,84,85,4
+Nathan Wright,MID,92,120,4
+Spencer Ward,MID,84,85,4
+Colton Gray,FWD,91,125,4
+Chase Murphy,FWD,86,95,4
